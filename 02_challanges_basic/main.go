@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sync"
-
 	"r00tdk/learngo/fizzBuzz"
+	"sync"
 )
 
 func main() {
