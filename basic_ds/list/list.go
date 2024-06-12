@@ -70,4 +70,5 @@ func (l *List) Print() {
 	}
 
 	printNode(l.root.next)
+	fmt.Println()
 }
